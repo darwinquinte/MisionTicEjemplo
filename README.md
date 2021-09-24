@@ -1,4 +1,4 @@
 # MisionTicEjemplo
-<div aling= "center">
+<div aling="center">
 Pueba de ejemplo 1
 </div>
