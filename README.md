@@ -1,6 +1,7 @@
 # MisionTicEjemplo
-
+<div>
 Pueba de ejemplo 1 para centrar el texto con align="center" para centrar (sin align alinea por defecto a la izq.)
+</div>
 <div align="center">
 Pueba de ejemplo 1 para centrar el texto con align="center" para centrar
 </div>
